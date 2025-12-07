@@ -1,0 +1,17 @@
+# build
+bin/
+obj/
+
+# arquivos de usuario
+*.user
+*.suo
+
+# cache do Visual Studio
+.vs/
+
+# configuracoes locais
+*.DotSettings.user
+
+# sistema
+Thumbs.db
+Desktop.ini

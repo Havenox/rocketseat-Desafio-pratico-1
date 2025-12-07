@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rocketseat-Desafio-pratico-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef2826144c2aa294b4b47999da99b07fb65cc3ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee65ab39086c53ea9dc852586cabb1b69e334384")]
 [assembly: System.Reflection.AssemblyProductAttribute("rocketseat-Desafio-pratico-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rocketseat-Desafio-pratico-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
