@@ -4,7 +4,7 @@ public class Utilidade
 {
     public static void Continuar()
     {
-        Console.WriteLine("Pressione qualquer tecla para continuar...");
+        Console.WriteLine("\n\nPressione qualquer tecla para continuar...");
         Console.ReadLine();
     }
 
@@ -12,7 +12,7 @@ public class Utilidade
     {
         Console.Clear();
         Console.WriteLine("Opção Inválida!");
-        Utilidade.Continuar();
+        Continuar();
         return -1;
     }
 
